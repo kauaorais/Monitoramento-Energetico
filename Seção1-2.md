@@ -70,9 +70,10 @@ ao mesmo tempo, fornecer ferramentas aos usuários para melhor gerir o consumo d
 auxiliar na comunicação e resolução de problemas, por meio do uso de sistemas de coleta de 
 dados e visualização de informações em tempo real 
 
-## Objectivo Geral
+## Objetivo Geral
 
-Criar um sistema de monitorização eficaz da energia, o qual possibilite a análise minuciosa do consumo e apresente sugestões para otimização.
+Criar um sistema de monitorização eficaz de energia, o qual possibilite a análise minuciosa do consumo e apresente sugestões para otimização.
+
 
 ## Referencias 
 
