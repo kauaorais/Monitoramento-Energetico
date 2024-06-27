@@ -74,6 +74,11 @@ dados e visualização de informações em tempo real
 
 Criar um sistema de monitorização eficaz de energia, o qual possibilite a análise minuciosa do consumo e apresente sugestões para otimização.
 
+## Divisão de tarefas
+Líder - Francisco Kauã
+Analista de Sistemas - Rayron da Silva 
+Dev Back-end
+Dev Front-end 
 
 ## Referencias 
 
