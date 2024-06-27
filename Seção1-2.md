@@ -1,4 +1,5 @@
-## Monitoramento de Comsumo Energia Elétrica
+
+## Monitoramento de Consumo Energia Elétrica
 
 ## Introdução
 Os bens e serviços, sendo considerado um fator importante na medição da economia de um país
@@ -60,7 +61,7 @@ Problema: O uso de sistemas de monitoramento muitas vezes não é escalável e a
 As empresas em fase de crescimento enfrentam desafios ao tentar ampliar seus sistemas de monitoramento, o que leva a lacunas
 na eficiência energética.
 
-## .
+## Motivação 
 
 A motivação para este projeto reside na necessidade de superar essas limitações e fornecer uma solução de monitoramento 
 de eletricidade que seja precisa, eficiente e fácil de usar. 
@@ -72,10 +73,17 @@ dados e visualização de informações em tempo real
 
 ## Objetivo Geral
 
-Criar um sistema de monitorização eficaz de energia, o qual possibilite a análise minuciosa do consumo e apresente sugestões para otimização.
+Nosso objetivo com o projeto é criar um sistema de monitoramento eficaz de energia, o qual possibilite a análise minuciosa do consumo e apresente sugestões para otimização, visando informar o cliente sobre o funcionamento do sistema, seus pontos positivos e negativos, além de fornecer dicas para o aprimoramento do mesmo.
+
+## Divisão de tarefas
+# Líder - Francisco Kauã
+# Analista de Sistemas - Rayron da Silva 
+# Dev Back-end
+# Dev Front-end 
 
 
-## Referencias 
+
+## Referências 
 
 1. Ricardo Schuler,(UNIVATES), Sistema de Monitoramento de Energia Eletrica para ciruitos monofasicos de baixa tensão,
    https://www.univates.br/bduserver/api/core/bitstreams/da0085cf-bc92-44a7-989f-5bc535cc0b6d/content, Acesso 23 de Junho de 2024.
@@ -85,4 +93,5 @@ Criar um sistema de monitorização eficaz de energia, o qual possibilite a aná
 
 3. PIOVESAN, Cleiton. Sistema de Monitoramento para Consumo de Energia Residencial. 2017. 103f. Trabalho de conclusão de curso (Engenharia Elétrica),Universidade Regional do Noroeste do Estado Do Rio Grande do Sul, 2017; https://bibliodigital.unijui.edu.br:8443/server/api/core/bitstreams/3ae5391c-f373-423d-92b4-af4358a2650d/content Acesso 24 de Junho de 2024.
 
-4. 
+   
+ 
