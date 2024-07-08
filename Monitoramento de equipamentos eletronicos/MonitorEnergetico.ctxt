@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MonitorEnergetico
+comment1.params=nome\ potencia\ horasUsoDiario
+comment1.target=MonitorEnergetico(java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcularConsumoMensal()
+comment3.params=precoPorKWh
+comment3.target=double\ calcularCustoMensal(double)
+numComments=4
