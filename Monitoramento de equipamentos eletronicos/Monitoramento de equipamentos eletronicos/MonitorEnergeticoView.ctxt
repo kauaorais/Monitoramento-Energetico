@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=MonitorEnergeticoView
-comment1.params=
-comment1.target=MonitorEnergeticoView()
-comment2.params=
-comment2.target=MonitorEnergetico\ getDadosDoUsuario()
-comment3.params=equipamento\ precoPorKWh
-comment3.target=void\ exibirDados(MonitorEnergetico,\ double)
-numComments=4
