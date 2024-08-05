@@ -75,17 +75,113 @@ dados e visualização de informações em tempo real
 
 Nosso objetivo com o projeto é criar um sistema de monitoramento eficaz de energia, o qual possibilite a análise minuciosa do consumo e apresente sugestões para otimização, visando informar o cliente sobre o funcionamento do sistema, seus pontos positivos e negativos, além de fornecer dicas para o aprimoramento do mesmo.
 
-## Divisão de tarefas
-# Líder - Francisco Kauã
-# Analista de Sistemas - Rayron da Silva 
-# Dev Back-end
-# Dev Front-end 
+## Dados de entrada
+
+Televisor (LED, 42")
+Potência: 100 W
+Consumo diário: 0,5 kWh (100 W x 5 h / 1000)
+Custo diário: R$ 0,35 (0,5 kWh x R$ 0,70)
+
+Computador Desktop
+Potência: 250 W
+Consumo diário: 1,25 kWh (250 W x 5 h / 1000)
+Custo diário: R$ 0,88 (1,25 kWh x R$ 0,70)
+
+Monitor de Computador
+Potência: 40 W
+Consumo diário: 0,2 kWh (40 W x 5 h / 1000)
+Custo diário: R$ 0,14 (0,2 kWh x R$ 0,70)
+Geladeira
+
+Potência: 150 W
+Consumo diário: 3,6 kWh (150 W x 24 h / 1000)
+Custo diário: R$ 2,52 (3,6 kWh x R$ 0,70)
+
+Micro-ondas
+Potência: 1000 W
+Consumo diário: 0,5 kWh (1000 W x 0,5 h / 1000)
+Custo diário: R$ 0,35 (0,5 kWh x R$ 0,70)
+
+Máquina de Lavar Roupas
+Potência: 500 W
+Consumo diário: 0,5 kWh (500 W x 1 h / 1000)
+Custo diário: R$ 0,35 (0,5 kWh x R$ 0,70)
+
+Secadora de Roupas
+Potência: 2000 W
+Consumo diário: 1,0 kWh (2000 W x 0,5 h / 1000)
+Custo diário: R$ 0,70 (1,0 kWh x R$ 0,70)
+
+Aspirador de Pó
+Potência: 1500 W
+Consumo diário: 0,75 kWh (1500 W x 0,5 h / 1000)
+Custo diário: R$ 0,53 (0,75 kWh x R$ 0,70)
+
+Ar Condicionado (2 kW)
+Potência: 2000 W
+Consumo diário: 10 kWh (2000 W x 5 h / 1000)
+Custo diário: R$ 7,00 (10 kWh x R$ 0,70)
+
+Ventilador
+Potência: 50 W
+Consumo diário: 0,25 kWh (50 W x 5 h / 1000)
+Custo diário: R$ 0,18 (0,25 kWh x R$ 0,70)
+
+Lâmpadas (10 lâmpadas de 10 W cada)
+Potência total: 100 W
+Consumo diário: 0,5 kWh (100 W x 5 h / 1000)
+Custo diário: R$ 0,35 (0,5 kWh x R$ 0,70)
+
+Chuveiro Elétrico
+Potência: 5000 W
+Consumo diário: 3,0 kWh (5000 W x 0,6 h / 1000)
+Custo diário: R$ 2,10 (3,0 kWh x R$ 0,70)
+Forno Elétrico
+
+Potência: 2000 W
+Consumo diário: 1,0 kWh (2000 W x 0,5 h / 1000)
+Custo diário: R$ 0,70 (1,0 kWh x R$ 0,70)
+
+Torradeira
+Potência: 1200 W
+Consumo diário: 0,3 kWh (1200 W x 0,25 h / 1000)
+Custo diário: R$ 0,21 (0,3 kWh x R$ 0,70)
+
+Cafeteira
+Potência: 1000 W
+Consumo diário: 0,5 kWh (1000 W x 0,5 h / 1000)
+Custo diário: R$ 0,35 (0,5 kWh x R$ 0,70)
+
+Celular (Carregador)
+Potência: 10 W
+Consumo diário: 0,05 kWh (10 W x 5 h / 1000)
+Custo diário: R$ 0,04 (0,05 kWh x R$ 0,70)
+
+Carregador de Notebook
+Potência: 60 W
+Consumo diário: 0,3 kWh (60 W x 5 h / 1000)
+Custo diário: R$ 0,21 (0,3 kWh x R$ 0,70)
+
+Home Theater
+Potência: 200 W
+Consumo diário: 1,0 kWh (200 W x 5 h / 1000)
+Custo diário: R$ 0,70 (1,0 kWh x R$ 0,70)
+
+Roteador de Internet
+Potência: 10 W
+Consumo diário: 0,24 kWh (10 W x 24 h / 1000)
+Custo diário: R$ 0,17 (0,24 kWh x R$ 0,70)
+
+Desumidificador
+Potência: 300 W
+Consumo diário: 1,5 kWh (300 W x 5 h / 1000)
+Custo diário: R$ 1,05 (1,5 kWh x R$ 0,70)
 
 ## Divisão de tarefas
 Líder - Francisco Kauã
-Analista de Sistemas - Rayron da Silva 
-Dev Back-end
-Dev Front-end 
+Analista de Sistemas - Felype Hipolito
+Dev Back-end - Francisco Kauã
+Dev Front-end - Felype Hipolito
 
 
 ## Referências 
