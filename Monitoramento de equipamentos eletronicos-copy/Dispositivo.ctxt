@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Dispositivo
+comment1.params=nome\ potencia
+comment1.target=Dispositivo(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=double\ getPotencia()
+comment4.params=nome
+comment4.target=void\ setNome(java.lang.String)
+comment5.params=potencia
+comment5.target=void\ setPotencia(double)
+comment6.params=
+comment6.target=double\ calcularConsumoDiario()
+numComments=7
